@@ -32,11 +32,11 @@ To start an HTTP server serving the app, use:
 
 This will run `hugo server` on the background.
 
-# Other Acceleartors
+### Other Accelerators
 
 You can find a list of all our live accelerators on the [Snowplow Website](https://snowplow.io/data-product-accelerators/).
 
-# Join the Snowplow community
+### Join the Snowplow community
 
 We welcome all ideas, questions and contributions!
 
@@ -44,9 +44,9 @@ For support requests, please use our community support [Discourse][discourse] fo
 
 If you find a bug, please report an issue on GitHub.
 
-# Copyright and license
+### Copyright and license
 
-The <YOUR ACCELEARTOR HERE> acceleartor is Copyright 2022 Snowplow Analytics Ltd.
+The <YOUR ACCELERATOR HERE> accelerator is Copyright 2022 Snowplow Analytics Ltd.
 
 Licensed under the [Apache License, Version 2.0][license] (the "License");
 you may not use this software except in compliance with the License.
